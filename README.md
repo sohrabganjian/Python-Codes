@@ -9,3 +9,5 @@
 <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/PDF_merger.ipynb">PDF_merger.py</a> - This will merge PDFs together.</p>
 
 <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/PDF_split.ipynb">PDF_split.py</a> - This splits a particular page of a pdf document.</p>
+
+<p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Comparing%20Folders.ipynb">Comparing Folders.py</a> - This compares the content of two folders.</p>
