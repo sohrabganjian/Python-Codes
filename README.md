@@ -6,4 +6,6 @@
 
 <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Grade_Calculator.py">Grade_Calculator.py</a> - This asks a user for a grade the user recived out of 100 and would ask the weight of the grade and would show how much it is worthed out of 100%.</p>
 
+<p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/PDF_merger.ipynb">PDF_merger.py</a> - This will merge PDFs together.</p>
 
+<p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/PDF_split.ipynb">PDF_split.py</a> - This splits a particular page of a pdf document.</p>
