@@ -1,14 +1,10 @@
 '''
-
 Author: Sohrab
 git: https://github.com/sohrabganjian
 
 The following is the code for converting
 all the word documents ending with '.doc' and '.docx'
 to pdf in the same directory with the same name
-
-Author: Sohrab
-
 '''
 
 ## importing packages
