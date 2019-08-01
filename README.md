@@ -11,3 +11,5 @@
 * <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/PDF_split.ipynb">PDF_split.py</a> - This splits a particular page of a pdf document.</p>
 
 * <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Comparing%20Folders.ipynb">Comparing Folders.py</a> - This compares the content of two folders.</p>
+
+* <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/merge_split.ipynb">merge_split.py</a> - This lets you remove specific pages and merge other PDFs at specified pages. See this link for more details.</p>
