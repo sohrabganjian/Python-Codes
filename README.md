@@ -14,4 +14,4 @@
 
 * <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/merge_split.ipynb">merge_split.ipynb</a> - This lets you remove specific pages and merge other PDFs at specified pages. See this link for more details.</p>
 
-<p><a href="https://github.com/sohrabganjian/Python-Codes/blob/masterDevice%20Performance.ipynb">Device Performance.ipynb</a> - This code let's you measure a quick benchmark for your device. Expect the running to be between 24 to 50 seconds. </p>
+* <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/masterDevice%20Performance.ipynb">Device Performance.ipynb</a> - This code let's you measure a quick benchmark for your device. Expect the running to be between 24 to 50 seconds. </p>
