@@ -19,3 +19,5 @@
 * <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/MoveFiles_Undo.ipynb">MoveFiles_Undo.ipynb</a> - This code let's you move files that satisfy certain conditions from a parent directory and move them to a destination folder. Eventually, these files can be moved back to their original directory. Please see the notebook for more information. </p>
 
 * <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Image_PDF.ipynb">Image_PDF.ipynb</a> - This code let's you convert your image to a PDF. There is also a workaround for transparent images that may raise an error. Please see the notebook for more details. </p>
+
+* <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Merge_two_PDFs_at_a_Specified_Page.ipynb">Merge_two_PDFs_at_a_Specified_Page.ipynb</a> - This codes allows you to merge two PDFs at a specified page. The same code could be adjusted for more than two PDFs. </p>
