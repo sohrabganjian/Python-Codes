@@ -20,4 +20,7 @@
 
 * <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Image_PDF.ipynb">Image_PDF.ipynb</a> - This code let's you convert your image to a PDF. There is also a workaround for transparent images that may raise an error. Please see the notebook for more details. </p>
 
-* <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Merge_two_PDFs_at_a_Specified_Page.ipynb">Merge_two_PDFs_at_a_Specified_Page.ipynb</a> - This codes allows you to merge two PDFs at a specified page. The same code could be adjusted for more than two PDFs. </p>
+* <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Merge_two_PDFs_at_a_Specified_Page.ipynb">Merge_two_PDFs_at_a_Specified_Page.ipynb</a> - This code allows you to merge two PDFs at a specified page. The same code could be adjusted for more than two PDFs. </p>
+
+* <p><a href="https://github.com/sohrabganjian/Python-Codes/blob/master/Scale_PDF_pages.ipynb">Scale_PDF_pages.ipynb.ipynb</a> - Scale pages of a PDF document to be of the same size of a letter-size paper. The scale could be changed according to your needs. 
+
